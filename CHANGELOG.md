@@ -3,6 +3,7 @@
 ## `6.2.0`
 
 - Add a new `--memory-percentage` flag to display used memory in percentage.
+- Bump the versions of our dependencies
 
 Rolv Apneseth:
 - Minor fixes to the documentation (#274)
